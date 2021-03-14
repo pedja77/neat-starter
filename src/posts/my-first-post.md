@@ -10,6 +10,8 @@ tags:
   - center
   - right
 ---
+![lilly pond](/static/img/08-october-2020-myphotopack.com-.jpg "Lllies")
+
 # This is a Heading h1
 
 ## This is a Heading h2
